@@ -138,7 +138,7 @@ npms=(
 )
 
 gpg_key='3E219504'
-git_email='pathikritbhowmick@msn.com'
+git_email='decorde.apex@gmail.com'
 git_configs=(
   "branch.autoSetupRebase always"
   "color.ui auto"
@@ -151,7 +151,7 @@ git_configs=(
   "rerere.autoUpdate true"
   "remote.origin.prune true"
   "rerere.enabled true"
-  "user.name pathikrit"
+  "user.name Samrat002"
   "user.email ${git_email}"
   "user.signingkey ${gpg_key}"
 )
